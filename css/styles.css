@@ -1,0 +1,17 @@
+
+body {
+    background: linear-gradient(0deg, rgba(34,193,195,0.1) 0%, rgba(253,187,45,0.1) 100%);
+}
+
+.album_title {
+    color: #353535;
+    font-size: 18px;
+    margin-bottom: 5px;
+    width: fit-content;
+}
+
+.album_title:hover {
+    text-shadow: 1px 1px 8px #6A6A6A;
+    transition: 0.3s;
+    cursor: pointer;
+}
